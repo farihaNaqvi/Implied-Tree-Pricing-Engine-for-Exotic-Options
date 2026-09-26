@@ -44,9 +44,9 @@ The code computes:
 
 ## Repository Contents
 
-- `ImpliedTrinomialTree.java` — main implementation
-- `ImpliedTrinomialTree.class` — compiled Java class output
-- `.gitignore` — standard repository ignore rules
+- `ImpliedTrinomialTree.java` - main implementation
+- `ImpliedTrinomialTree.class` - compiled Java class output
+- `.gitignore` - standard repository ignore rules
 
 ## Prerequisites
 
